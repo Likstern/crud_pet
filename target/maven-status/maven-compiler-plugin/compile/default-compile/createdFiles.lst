@@ -1,0 +1,5 @@
+org\eq\crud\config\DispatcherServlet.class
+org\eq\crud\controllers\PeopleController.class
+org\eq\crud\dao\PersonDAO.class
+org\eq\crud\config\WebContext.class
+org\eq\crud\models\Person.class
